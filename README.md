@@ -1,6 +1,6 @@
 # 🧠 Ear Drum Infection Diagnosis using Deep Learning
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs-blue) ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs-blue) ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) 
 
 ## 📌 Project Overview
 
@@ -116,12 +116,6 @@ This project is inspired by and extends upon ideas presented in:
 Final Year Student, VIT Chennai  
 📫 [LinkedIn](https://www.linkedin.com/in/affan-umair/)  
 📧 affan.umair5370@gmail.com  
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
